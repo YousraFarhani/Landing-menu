@@ -1,4 +1,4 @@
 # Landing-menu
 Polydraw is windows desktop app that helps creating art and design using shapes and polygones.
-![Picture](https://drive.google.com/file/d/1PK2pi0OBYVqFx2avKAS7lLDMa0tPlbIl/view?usp=sharingg)
-Format: ![Alt Text](url)
+![Picture](Capture d’écran 2021-10-27 à 01.08.07.png)
+
